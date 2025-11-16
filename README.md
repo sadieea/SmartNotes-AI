@@ -51,7 +51,7 @@ Connects to **Google's Gemini API (gemini-1.0-pro)** to:
 |-----------------|------------------------------------------------------|
 | **Frontend**    | Next.js, React, TypeScript, Tailwind CSS, Shadcn UI |
 | **Backend**     | FastAPI, Python 3.11, Uvicorn                        |
-| **AI**          | Google Gemini API (gemini-1.0-pro)                   |
+| **AI**          | Google Gemini API (gemini-2.5-flash)                   |
 | **Data Processing** | PyPDF2 (for PDFs), Tesseract OCR (for Images)   |
 | **Deployment**  | Local Development                                   |
 
