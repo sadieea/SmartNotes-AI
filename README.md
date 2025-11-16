@@ -1,6 +1,6 @@
 # 🧠 SmartNotes AI
 
-SmartNotes AI is a full-stack web application built for the **"Make Learning Cool Again"** hackathon. It's an intelligent learning assistant that transforms any document—lecture notes, textbook chapters, or articles—into a concise summary, a list of key takeaways, and an interactive quiz.
+SmartNotes AI is an intelligent learning assistant that transforms any document, lecture notes, textbook chapters, or articles into a concise summary, a list of key takeaways, and an interactive quiz.
 
 ---
 
